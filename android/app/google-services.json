@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "714183271369",
+    "project_id": "razolabwork",
+    "storage_bucket": "razolabwork.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714183271369:android:514274a8e49c8913407e18",
+        "android_client_info": {
+          "package_name": "com.example.razo_labwork3c"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzuVwvrlaFPAWTQssQodymgEeO26KBVu8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
